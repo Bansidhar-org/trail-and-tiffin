@@ -1,5 +1,5 @@
-// Replace this placeholder with your GA4 web stream Measurement ID.
-const measurementId = '';
+// GA4 Measurement ID for the Trail & Tiffin web stream.
+const measurementId = 'G-ZWJHVT3QMD';
 
 const isWebPage = ['https:', 'http:'].includes(window.location.protocol);
 
